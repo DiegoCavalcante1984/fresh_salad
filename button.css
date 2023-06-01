@@ -1,0 +1,32 @@
+.btn{
+    width:200px;
+    padding:10px;
+    
+    
+    border:none;
+    background-color:rgb(228, 65, 36);
+    color: #FFF;
+    font-size:20px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: ease-in-out 500ms;
+
+}
+.btn:hover{
+    transform: scale(1.04);
+    transition: ease-in-out 500ms;
+    background-color: tomato;
+}
+.btn-menu{
+    width:160px;
+    padding:6px;
+    display: block;
+    margin:0 auto;
+    border:none;
+    background-color: rgb(166, 212, 166);
+    color: #000;
+    font-size:20px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: ease-in-out 500ms; 
+}
